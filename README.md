@@ -1,2 +1,2 @@
 # Hello-python
-Life is short, I use Python
+Life is too short, when I start coding as my first language as Python
